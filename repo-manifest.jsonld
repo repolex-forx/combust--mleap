@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/combust/mleap/commit/53697f872274eb9a4603363c51138e76a47dbec2",
       "git:hexsha": "53697f872274eb9a4603363c51138e76a47dbec2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.25.3"
     },
     {
