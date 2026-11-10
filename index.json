@@ -1,0 +1,11 @@
+{
+  "org": "combust",
+  "repo": "mleap",
+  "versions": [
+    {
+      "commit": "53697f872274eb9a4603363c51138e76a47dbec2",
+      "tag": "v0.25.3",
+      "parsed_at": "2026-11-10T02:27:45.857359+00:00"
+    }
+  ]
+}
